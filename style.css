@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  justify-content:  center;
+  align-items: center;
+  width: 200px;
+  height: 300px;
+  border-radius: 10px;
+  color: rgb(247, 242, 236);
+  background: blueviolet;
+}
+.weatherIcon {
+  width: 20px;
+  height: 20px;
+}
